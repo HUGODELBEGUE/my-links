@@ -1,0 +1,14 @@
+{
+    "name": "hugod/my-links",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HUGODELBEGUE",
+            "email": "82809699+HUGODELBEGUE@users.noreply.github.com"
+        }
+    ],
+    "require": {
+      "ext-json": "*"
+    }
+}
